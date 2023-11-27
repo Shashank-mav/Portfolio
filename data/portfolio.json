@@ -1,0 +1,112 @@
+{
+  "name": "Shashank",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Shashank Bhadouriya - ",
+  "headerTaglineThree": "I build things for the web.",
+  "headerTaglineFour": "",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/Shashank-mav"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/shashank-bhadouriya/"
+    },
+    
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:shashankbhadouriya7@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "ShareInGo.in",
+      "description": "Web App",
+      "imageSrc": "https://github.com/Shashank-mav/Project_photos/blob/main/Frame%201%20(1).png?raw=true",
+      "url": "https://shareingo.in/"
+    },
+    {
+      "id": "2",
+      "title": "Globalizers",
+      "description": "Company Website",
+      "imageSrc": "https://github.com/Shashank-mav/Project_photos/blob/main/Screenshot%20(1490).png?raw=true",
+      "url": "https://globalizer-mern-proto.vercel.app/ourproducts"
+    },
+    {
+      "id": "3",
+      "title": "JobsFit",
+      "description": "Android & IOS App",
+      "imageSrc": "https://github.com/Shashank-mav/Project_photos/blob/main/Frame%204.png?raw=true",
+      "url": "https://expo.dev/@shashank_bhadouriya/jobsift?serviiceType=classic&distribution=expo-go"
+    },
+    {
+      "id": "4",
+      "title": "Blip !",
+      "description": "Group Collaboration Platform",
+      "imageSrc": "https://github.com/Shashank-mav/Project_photos/blob/main/Screenshot%20(1491).png?raw=true",
+      "url": "https://blip-bml4.onrender.com/welcome"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Design ",
+      "description": "I design attractive and user-friendly website layouts, carefully customizing colors, fonts, and imagery for a cohesive look. My goal is to ensure a positive and seamless user experience, making the site engaging and easy to navigate."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Performance Optimization",
+      "description": "I specialize in fine-tuning website speed for rapid loading, employing advanced strategies such as image compression, code minification, and leveraging cutting-edge content delivery techniques."
+    },
+    {
+      "id": "4",
+      "title": "App Developemnt  ",
+      "description": "I make high-performance mobile app development with advanced speed optimization: image compression, code minification, and sophisticated content delivery."
+    }
+  ],
+  "aboutpara": "Aspiring Web Developer and recent Computer Science graduate with a Bachelor of Technology and hands-on experience from an internship at TekStitcher, a startup. Skilled in designing, developing, and implementing front-end and back-end functionalities for web and mobile applications. \n\nWinner of the Udaan Hackathon 2023, demonstrating dedication to innovation and continuous learning. Eager to contribute expertise and thrive in a dynamic development environment.",
+  "resume": {
+    "tagline": "👋  Your go-to creator for exceptional websites, apps, and digital services.",
+    "description": "I have delivered world-class user experiences to Hundreds of people. Well-versed with React, JavaScript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Jan 2023 - April 2023, Indore",
+        "type": "Internship",
+        "position": "Web Development Intern at TekStitcher",
+        "bullets": "Designed and implemented front-end and back-end functionalities, Collaborated with UI/UX designers and conducted design and implementation reviews for multiple projects , Implemented and integrated modern tech stacks and frameworks. optimized development efficiency and maintainability , Collaborated with cross-functional teams to present technology architecture and progress updates"
+      }
+    ],
+    "education": {
+      "universityName": "Institute of Engineering and Science, IPS Academy",
+      "universityDate": "2019-2023",
+      "universityPara": "Bachelor of Technology, Computer Science, CGPA:- 8.87"
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Java",
+      "MySql",
+      "Flutter",
+      "React Native"
+    ],
+    "frameworks": ["React", "Next.js", "Node.Js"],
+    "others": ["Figma", "AdobeXD", "WordPress", "SEO"]
+  }
+}
