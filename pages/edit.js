@@ -265,7 +265,7 @@ const Edit = () => {
               ></input>
             </div>
             <div className="mt-5 flex items-center">
-              <label className="w-1/5 text-lg opacity-50">Blog</label>
+              <label className="w-1/5 text-lg opacity-50">Projects</label>
               <div className="w-4/5 ml-10 flex items-center">
                 <Button
                   onClick={() => setData({ ...data, showBlog: true })}
